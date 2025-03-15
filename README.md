@@ -39,10 +39,10 @@ You can choose from the following implementations:
 |------------|----------------------------|-----------|
 | CLAM-SB | Clustering-constrained Attention MIL (single branch) | [CLAM](https://github.com/mahmoodlab/CLAM) |
 | CLAM-MB | Clustering-constrained Attention MIL (multi-branch) | [CLAM](https://github.com/mahmoodlab/CLAM) |
-| TransMIL | Transformer-based MIL | [TransMIL](https://github.com/binli123/dsmil-wsi) |
+| TransMIL | Transformer-based MIL | [TransMIL](https://github.com/szc19990412/TransMIL) |
 | DSMIL | Dual-stream MIL | [DSMIL](https://github.com/binli123/dsmil-wsi) |
 | DTFD-MIL | Double-tier feature distillation MIL | [DTFD-MIL](https://github.com/winycg/DTFD-MIL) |
-| ABMIL | Attention-based MIL | [CLAM (ABMIL)](https://github.com/mahmoodlab/CLAM) |
+| ABMIL | Attention-based MIL | [CLAM (ABMIL)](https://github.com/AMLab-Amsterdam/AttentionDeepMIL) |
 | **ACMIL** | Advanced Composite MIL with attention regularization | [ACMIL](https://github.com/dazhangyu123/ACMIL) |
 
 ---
