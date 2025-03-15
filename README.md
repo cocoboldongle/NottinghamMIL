@@ -1,7 +1,7 @@
 # Predicting Nottingham Grade in Breast Cancer Digital Pathology Using a Foundation Model
 
 This repository contains the source code for a deep learning pipeline to predict Nottingham histologic grades (Grade 1, 2, and 3) from breast cancer whole-slide images (WSIs).  
-The implementation is based on the **Advanced Composite Multiple Instance Learning (ACMIL)** framework, adapted for histopathology applications.
+The implementation is based on the **Attention-Challenging Multiple Instance Learning for Whole Slide Image Classification (ACMIL)** framework, adapted for histopathology applications.
 
 ---
 
