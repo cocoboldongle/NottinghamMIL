@@ -54,15 +54,3 @@ You can choose from the following implementations:
 - Features extracted using selected backbone (UNI / ViT / ResNet).
 
 > For preprocessing scripts, see [CLAM Preprocessing Pipeline](https://github.com/mahmoodlab/CLAM).
-
----
-
-## 💻 Requirements
-
-- Python ≥ 3.8  
-- PyTorch ≥ 1.13  
-- OpenSlide  
-- scikit-learn, pandas, numpy, tqdm
-
-```bash
-pip install -r requirements.txt
