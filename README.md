@@ -43,7 +43,7 @@ You can choose from the following implementations:
 | DSMIL | Dual-stream MIL | [DSMIL](https://github.com/binli123/dsmil-wsi) |
 | DTFD-MIL | Double-tier feature distillation MIL | [DTFD-MIL](https://github.com/hrzhang1123/DTFD-MIL) |
 | ABMIL | Attention-based MIL | [ABMIL](https://github.com/AMLab-Amsterdam/AttentionDeepMIL) |
-| **ACMIL** | Advanced Composite MIL with attention regularization | [ACMIL](https://github.com/dazhangyu123/ACMIL) |
+| **ACMIL** | Attention-Challenging Multiple Instance Learning for Whole Slide Image Classification | [ACMIL](https://github.com/dazhangyu123/ACMIL) |
 
 ---
 
